@@ -1,4 +1,4 @@
-# Dijkstra's Algorithm - Potion Trading
+# Bellman Ford - Potion Trading
 You have come to a new town,
 and your goal is to trade with the local people in order to maximise the value of the potion you
 have.
